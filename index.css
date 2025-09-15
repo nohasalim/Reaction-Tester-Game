@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  height: 100vh;
+}
+.description {
+  height: 30%;
+  width: 100%;
+  text-align: center;
+  line-height: 2;
+}
+.reaction,.total{
+  display: flex;
+  align-items: center;
+  justify-content:space-around;
+
+}
+.gamespace {
+  height: 70%;
+  width: 100%;
+  position: relative;
+  background-color: #faebd7;
+}
+.shape {
+  position: absolute;
+  cursor: pointer;
+}
+.startbtn,.stopbtn,.closebtn{
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    color:white;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  .stopbtn{
+    background-color: #bf6161;
+    display: none;
+}
+.stopbtn:hover{
+    background-color: #ff0000;
+    color: #000;
+}
+.startbtn{
+  background-color: #27a729;
+}
+.startbtn:hover{
+  color: #000;
+  background-color: green;
+}
+.closebtn{
+  background-color: rgb(57, 17, 17);
+}
+.closebtn:hover{
+  background-color: rgb(107, 33, 33);
+}
