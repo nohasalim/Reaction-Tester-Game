@@ -1,7 +1,6 @@
 # 🎮 Reaction Tester Game
 
-A simple browser-based game to measure and track your **reaction speed**.  
-The game randomly displays shapes on the screen, and you must click them as fast as possible.  
+A fun and interactive browser-based game to test and track your reaction speed. Built with vanilla JavaScript, HTML, and CSS.
 It records your best time, total play time, and even keeps track of your **weekly play time** using `localStorage`.
 
 ---
