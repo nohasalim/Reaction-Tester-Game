@@ -1,4 +1,4 @@
-# 🎮 Reaction Time Game
+# 🎮 Reaction Tester Game
 
 A simple browser-based game to measure and track your **reaction speed**.  
 The game randomly displays shapes on the screen, and you must click them as fast as possible.  
@@ -35,6 +35,5 @@ It records your best time, total play time, and even keeps track of your **weekl
 2. Open the `index.html` file in your browser.
 3. Play instantly — no setup needed!
 
----
 
-## 📁 Project Structure
+
